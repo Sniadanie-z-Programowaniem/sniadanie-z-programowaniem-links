@@ -6,6 +6,9 @@
 
 Odcinki:
 
+* [Front-end] Śniadanie z programowaniem #14, 21.11.2019
+    * [video](https://www.facebook.com/JustJoinIT/videos/3038417473050223/)
+    * [linki](./episodes/14.md)
 * [Back-end] Śniadanie z programowaniem #13, 13.11.2019
     * [video](https://www.facebook.com/JustJoinIT/videos/2794796973885240/)
     * [linki](./episodes/13.md)
