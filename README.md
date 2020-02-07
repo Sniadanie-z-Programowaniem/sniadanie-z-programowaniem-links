@@ -5,6 +5,12 @@
 
 
 Odcinki:
+* [Front-end] Śniadanie z programowaniem #23, 07.02.2020
+    * [video](https://www.facebook.com/JustJoinIT/videos/495384067829348/)
+    * [linki](./episodes/23.md)
+* [Back-end] Śniadanie z programowaniem #22, 30.12.2019
+    * [video](https://www.facebook.com/JustJoinIT/videos/791400858030559/)
+    * [linki](./episodes/22.md)
 * [Front-end] Śniadanie z programowaniem #21, 23.01.2020
     * [video](https://www.facebook.com/JustJoinIT/videos/2247700648867613/)
     * [linki](./episodes/21.md)
