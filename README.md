@@ -5,6 +5,9 @@
 
 
 Odcinki:
+* [Back-end] Śniadanie z programowaniem #28, 13.03.2019
+    * [video](https://www.facebook.com/JustJoinIT/videos/192698005508441/)
+    * [linki](./episodes/28.md)
 * [Front-end] Śniadanie z programowaniem #27, 06.03.2019
     * [video](https://www.facebook.com/JustJoinIT/videos/485260805691878/)
     * [linki](./episodes/27.md)
