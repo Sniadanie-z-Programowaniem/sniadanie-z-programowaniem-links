@@ -3,8 +3,9 @@
 > Na tym repozytorium znajdziesz linki które publikujemy w ramach nagrań "Śniadanie z Programowaniem" na kanale [JustJoin IT](https://justjoin.it/).
 
 
+Wszystkie nagrania --> [facebook JustJoinIT](https://www.facebook.com/watch/JustJoinIT/1096965710647774/)
 
-Odcinki:
+## Odcinki:
 * [Back-end] Śniadanie z programowaniem #30, 27.03.2019
     * [video](https://www.facebook.com/JustJoinIT/videos/940096533104724)
     * [linki](./episodes/30.md)
