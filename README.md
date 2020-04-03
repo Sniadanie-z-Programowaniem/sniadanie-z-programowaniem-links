@@ -6,31 +6,35 @@
 Wszystkie nagrania --> [facebook JustJoinIT](https://www.facebook.com/watch/JustJoinIT/1096965710647774/)
 
 ## Odcinki:
-* [Back-end] Śniadanie z programowaniem #30, 27.03.2019
+
+* [Front-end] Śniadanie z programowaniem #31, 03.04.2020
+    * [video](https://www.facebook.com/JustJoinIT/videos/270483627280329/)
+    * [linki](./episodes/31.md)
+* [Back-end] Śniadanie z programowaniem #30, 27.03.2020
     * [video](https://www.facebook.com/JustJoinIT/videos/940096533104724)
     * [linki](./episodes/30.md)
-* [Front-end] Śniadanie z programowaniem #29, 20.03.2019
+* [Front-end] Śniadanie z programowaniem #29, 20.03.2020
     * [video](https://www.facebook.com/JustJoinIT/videos/159472355167163/)
     * [linki](./episodes/29.md)
-* [Back-end] Śniadanie z programowaniem #28, 13.03.2019
+* [Back-end] Śniadanie z programowaniem #28, 13.03.2020
     * [video](https://www.facebook.com/JustJoinIT/videos/192698005508441/)
     * [linki](./episodes/28.md)
-* [Front-end] Śniadanie z programowaniem #27, 06.03.2019
+* [Front-end] Śniadanie z programowaniem #27, 06.03.2020
     * [video](https://www.facebook.com/JustJoinIT/videos/485260805691878/)
     * [linki](./episodes/27.md)
-* [Back-end] Śniadanie z programowaniem #26, 27.02.2019
+* [Back-end] Śniadanie z programowaniem #26, 27.02.2020
     * [video](https://www.facebook.com/JustJoinIT/videos/1000402703686677/)
     * [linki](./episodes/26.md)
-* [Front-end] Śniadanie z programowaniem #25, 21.02.2019
+* [Front-end] Śniadanie z programowaniem #25, 21.02.2020
     * [video](https://www.facebook.com/JustJoinIT/videos/314067912882423/)
     * [linki](./episodes/25.md)
-* [Back-end] Śniadanie z programowaniem #24, 13.02.2019
+* [Back-end] Śniadanie z programowaniem #24, 13.02.2020
     * [video](https://www.facebook.com/JustJoinIT/videos/224442558618734)
     * [linki](./episodes/24.md)
 * [Front-end] Śniadanie z programowaniem #23, 07.02.2020
     * [video](https://www.facebook.com/JustJoinIT/videos/495384067829348/)
     * [linki](./episodes/23.md)
-* [Back-end] Śniadanie z programowaniem #22, 30.12.2019
+* [Back-end] Śniadanie z programowaniem #22, 30.01.2020
     * [video](https://www.facebook.com/JustJoinIT/videos/791400858030559/)
     * [linki](./episodes/22.md)
 * [Front-end] Śniadanie z programowaniem #21, 23.01.2020
