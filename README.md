@@ -7,6 +7,9 @@ Wszystkie nagrania --> [facebook JustJoinIT](https://www.facebook.com/watch/Just
 
 ## Odcinki:
 
+* [Front-end] Śniadanie z programowaniem #50, 28.08.2020
+    * [video](https://www.facebook.com/JustJoinIT/videos/3271754716252822)
+    * [linki](./episodes/50.md)
 * [Front-end] Śniadanie z programowaniem #49, 14.08.2020
     * [video](https://www.facebook.com/JustJoinIT/videos/2705992373019819)
     * [linki](./episodes/49.md)
