@@ -6,10 +6,16 @@
 Wszystkie nagrania --> [facebook JustJoinIT](https://www.facebook.com/watch/JustJoinIT/1096965710647774/)
 
 ## Odcinki:
+* [Front-end] Śniadanie z programowaniem #58, 23.10.2020
+    * [video](https://youtu.be/UygEuT2zEfY)
+    * [linki](./episodes/58.md)
+* [Back-end] Śniadanie z programowaniem #57, 16.10.2020
+    * [video](https://youtu.be/kO7rmsONxZk)
+    * [linki](./episodes/57.md)
 * [Front-end] Śniadanie z programowaniem #56, 09.10.2020
     * [video](https://www.facebook.com/JustJoinIT/videos/336497507624611)
     * [linki](./episodes/56.md)
-* [Back-end] Śniadanie z programowaniem #55, 02.09.2020
+* [Back-end] Śniadanie z programowaniem #55, 02.10.2020
     * [video](https://www.facebook.com/1680072122231260/videos/686771311935084)
     * [linki](./episodes/55.md)
 * [Front-end] Śniadanie z programowaniem #54, 25.09.2020
