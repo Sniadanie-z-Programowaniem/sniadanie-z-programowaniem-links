@@ -6,6 +6,9 @@
 Wszystkie nagrania --> [facebook JustJoinIT](https://www.facebook.com/watch/JustJoinIT/1096965710647774/)
 
 ## Odcinki:
+* [Front-end] Śniadanie z programowaniem #61, 20.11.2020
+    * [video](https://www.youtube.com/watch?v=4vmUyOXLXnQ)
+    * [linki](./episodes/61.md)
 * [Front-end] Śniadanie z programowaniem #60, 06.11.2020
     * [video](https://www.youtube.com/watch?v=OObeNDDaWFs)
     * [linki](./episodes/60.md)
