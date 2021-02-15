@@ -10,12 +10,18 @@ Wszystkie nagrania --> [facebook JustJoinIT](https://www.facebook.com/watch/Just
 * [Front-end] Śniadanie z programowaniem #70, 12.02.2021
     * [video](https://www.youtube.com/watch?v=ZlLwj3PadL4)
     * [linki](./episodes/70.md)
-* [Front-end] Śniadanie z programowaniem #69, 20.01.2021
+* [Front-end] Śniadanie z programowaniem #69, 29.01.2021
     * [video](https://www.youtube.com/watch?v=rFSIzB9eCZQ)
     * [linki](./episodes/69.md)
+* [Back-end] Śniadanie z programowaniem #68, 22.01.2021
+    * [video](https://www.youtube.com/watch?v=JSByfXHES0I)
+    * [linki](./episodes/68.md)
 * [Front-end] Śniadanie z programowaniem #67, 15.01.2021
     * [video](https://www.youtube.com/watch?v=-8nKIep4iFI)
     * [linki](./episodes/67.md)
+* [Back-end] Śniadanie z programowaniem #66, 08.01.2021
+    * [video](https://www.youtube.com/watch?v=ATzrYHY_Y8c)
+    * [linki](./episodes/66.md)
 * [Front-end] Śniadanie z programowaniem #65, 18.12.2020
     * [video](https://www.youtube.com/watch?v=ZlQu4gcXmtA)
     * [linki](./episodes/65.md)
