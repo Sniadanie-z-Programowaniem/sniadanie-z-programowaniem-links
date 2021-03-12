@@ -10,6 +10,9 @@ Wszystkie nagrania --> [facebook JustJoinIT](https://www.facebook.com/watch/Just
 * [Front-end] Śniadanie z programowaniem #74, 13.04.2021
     * [video](https://www.youtube.com/watch?v=jw_308mQFLU)
     * [linki](./episodes/74.md)
+* [Back-end] Śniadanie z programowaniem #73, 05.03.2021
+    * [video](https://www.youtube.com/watch?v=hxT7kcYYsQw)
+    * [linki](./episodes/73.md)
 * [Front-end] Śniadanie z programowaniem #72, 26.02.2021
     * [video](https://www.youtube.com/watch?v=IlVu4VEJQ_8)
     * [linki](./episodes/72.md)
