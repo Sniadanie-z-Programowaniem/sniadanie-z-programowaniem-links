@@ -1,0 +1,27 @@
+{
+  "name": "breakfast-news-links-md",
+  "version": "1.0.0",
+  "description": "Links for our ☕️breakfast show",
+  "scripts": {
+    "lint:fix": "prettier --write",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michalczukm/sniadanie-z-programowaniem.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michalczukm/sniadanie-z-programowaniem/issues"
+  },
+  "homepage": "https://github.com/michalczukm/sniadanie-z-programowaniem#readme",
+  "devDependencies": {
+    "husky": "^5.1.3",
+    "lint-staged": "^10.5.4",
+    "prettier": "^2.2.1"
+  },
+  "lint-staged": {
+    "*.{md}": "prettier --write"
+  }
+}
