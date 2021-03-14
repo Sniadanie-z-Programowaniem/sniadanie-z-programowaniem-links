@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Links for our ☕️breakfast show",
   "scripts": {
-    "lint:fix": "prettier --write",
+    "lint:fix": "prettier --write **/*.md",
     "prepare": "husky install"
   },
   "repository": {
