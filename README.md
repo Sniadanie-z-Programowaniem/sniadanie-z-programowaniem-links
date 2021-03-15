@@ -193,6 +193,7 @@ Wszystkie nagrania --> [facebook JustJoinIT](https://www.facebook.com/watch/Just
   - [linki](./episodes/12.md)
 - [Back-end] Śniadanie z programowaniem #11, 31.10.2019
   - [video](https://www.facebook.com/JustJoinIT/videos/2485166935098458/)
+  - [linki](./episodes/11.md)
   - [artykuł](https://geek.justjoin.it/sniadanie-z-programowaniem-11-2/)
 - [Front-end] Śniadanie z programowaniem #10, 24.10.2019
   - [video](https://www.facebook.com/JustJoinIT/videos/532375157596408/)
@@ -209,6 +210,7 @@ Wszystkie nagrania --> [facebook JustJoinIT](https://www.facebook.com/watch/Just
   - [linki](./episodes/06.md)
 - [Back-end] Śniadanie z programowaniem #5, 17.09.2019
   - [video](https://www.facebook.com/JustJoinIT/videos/379545612953291/),
+  - [linki](./episodes/05.md)
 - [Front-end] Śniadanie z programowaniem #4, 10.09.2019
   - [video](https://www.facebook.com/JustJoinIT/videos/533774114035995),
   - [linki](./episodes/04.md)
@@ -218,6 +220,7 @@ Wszystkie nagrania --> [facebook JustJoinIT](https://www.facebook.com/watch/Just
   - [artykuł](https://geek.justjoin.it/platnosci-za-oprogramowanie-open-source-sniadanie-z-programowaniem-3/)
 - [Front-end] Śniadanie z programowaniem #2, 24.08.2019
   - [video](https://www.facebook.com/JustJoinIT/videos/917794605237828/),
+  - [linki](./episodes/02.md)
   - [artykuł](https://geek.justjoin.it/blockchain-jako-the-most-overhyped-tech-czyli-sniadanie-z-programowaniem-2/)
 - [Front-end] Śniadanie z programowaniem #1, 14.08.2019
   - [video](https://www.facebook.com/JustJoinIT/videos/728129414260638/)
