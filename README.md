@@ -10,6 +10,9 @@ Wszystkie nagrania --> [facebook JustJoinIT](https://www.facebook.com/watch/Just
 
 :warning: Poniżej jest paro-miesięczna dziura. Zautomatyzujemy process dodawania i ją załatamy :coneofshame:
 
+- [Front-end] Śniadanie z programowaniem #103, 19.11.2021
+  - [video](https://www.youtube.com/watch?v=cst9NiBUV0o)
+  - [linki](./episodes/103.md)
 - [Front-end] Śniadanie z programowaniem #101, 22.10.2021
   - [video](https://www.youtube.com/watch?v=svUOxbtP-Wo)
   - [linki](./episodes/101.md)
