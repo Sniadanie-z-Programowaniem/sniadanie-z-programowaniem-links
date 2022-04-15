@@ -8,6 +8,12 @@ Wszystkie nagrania --> [facebook JustJoinIT](https://www.facebook.com/watch/Just
 
 ## Odcinki
 
+- [Back-end] Śniadanie z programowaniem #116, 15.04.2022
+  - [video](https://www.youtube.com/watch?v=hZzGfRIk0II)
+  - [linki](./episodes/116.md)
+- [Front-end] Śniadanie z programowaniem #115, 08.04.2022
+  - [video](https://www.youtube.com/watch?v=rnrm5YBHPWA)
+  - [linki](./episodes/115.md)
 - [Front-end_Back-end] Śniadanie z programowaniem #114, 01.04.2022
   - [video](https://www.youtube.com/watch?v=EX7t4QWxgZw)
   - [linki](./episodes/114.md)
