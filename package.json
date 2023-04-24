@@ -18,7 +18,7 @@
   "homepage": "https://github.com/michalczukm/sniadanie-z-programowaniem#readme",
   "devDependencies": {
     "husky": "^7.0.4",
-    "lint-staged": "^12.3.8",
+    "lint-staged": "^13.2.1",
     "prettier": "^2.6.2"
   },
   "lint-staged": {
